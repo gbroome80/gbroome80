@@ -16,7 +16,7 @@
 | User AI session hours | 0.0h | 0.0h | 0.0h | 1.0h |
 | AI worker hours | 0.0h | 0.0h | 0.0h | 0.0h |
 | AI concurrency hours | 0.0h | 0.0h | 0.0h | 1.1h |
-| Interactive sessions | 0 | 0 | 0 | 1 |
+| Interactive sessions | 1 | 1 | 1 | 2 |
 | Worker sessions | 0 | 0 | 0 | 0 |
 
 _Screen time from macOS display events, snapshotted daily. *365-day extrapolated (accumulating real data)._
@@ -36,5 +36,5 @@ _User AI session hours measured from AI message timestamps (reading, thinking, t
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-04-06 06:45 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-05-27 14:56 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
